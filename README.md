@@ -16,6 +16,9 @@ This is a web based study guide that is designed to give hands on instruction fo
 
 Open index.html in Google Chrome.  Select "More Tools" from the Chrome menu, then select "developer tools".
 A pannel should open on the left side or below the webpage.
+Make sure that console is selected at the top of the pane.
+You should see a list of subjects covered in this prework along with a random suggestion for what to study next.  
+The suggestion will change everytime you load the page.
 
 ![alt text](prework-study-guide/assets/images/Screenshot.png "image of webpage with develper console listing HTML, CSS, Git, and JavaScript along with promt of what to study followed by a suggested subject area.")
 
