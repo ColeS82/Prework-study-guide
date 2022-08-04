@@ -17,7 +17,7 @@ This is a web based study guide that is designed to give hands on instruction fo
 Open index.html in Google Chrome.  Select "More Tools" from the Chrome menu, then select "developer tools".
 A pannel should open on the left side or below the webpage.
 
-    ![image of webpage with develper console listing HTML, CSS, Git, and JavaScript along with promt of what to study followed by a suggested subject area.](prework-study-guide/assets/images/Screenshot.png)
+    ![alt text](prework-study-guide/assets/images/Screenshot.png "image of webpage with develper console listing HTML, CSS, Git, and JavaScript along with promt of what to study followed by a suggested subject area.")
 
 ## License
 
