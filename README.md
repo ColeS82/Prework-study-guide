@@ -22,6 +22,10 @@ The suggestion will change everytime you load the page.
 
 ![alt text](prework-study-guide/assets/images/Screenshot.png "image of webpage with develper console listing HTML, CSS, Git, and JavaScript along with promt of what to study followed by a suggested subject area.")
 
+## Credits
+
+N/A
+
 ## License
 
 Refer to license info in repo.
