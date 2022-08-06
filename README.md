@@ -20,7 +20,7 @@ Make sure that console is selected at the top of the pane.
 You should see a list of subjects covered in this prework along with a random suggestion for what to study next.  
 The suggestion will change everytime you load the page.
 
-![alt text](prework-study-guide/assets/images/Screenshot.png "image of webpage with develper console listing HTML, CSS, Git, and JavaScript along with promt of what to study followed by a suggested subject area.")
+![alt text](assets/images/Screenshot.png "image of webpage with develper console listing HTML, CSS, Git, and JavaScript along with promt of what to study followed by a suggested subject area.")
 
 ## Credits
 
